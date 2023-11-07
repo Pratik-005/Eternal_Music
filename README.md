@@ -6,30 +6,23 @@
 This application is designed to be an alternative to other music player applications by providing an immersive listening experience.
 </p>
 
-![Eternal Music](https://github.com/USERNAME/Eternal-Music/blob/main/images/Eternal-Music.png)
+
 
 ## Features
 
-- Play music files from your local system.
-- Adjust volume.
-- Seek through the currently playing song.
-- Loop a playlist.
-- Randomly shuffle through your playlist.
-- Toggle between fullscreen mode and windowed mode.
-- Responsive user interface.
+- Interactive User Interface
+- Personalized user playlist 
 
-### Built With
+## Built With
+* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+## Project Spotlights
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic1.png" width="80%" >
+<br/>
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic2.png" width="80%" >
+<br/>
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic3.png" width="80%" >
 
 
 ## Requirements
@@ -37,16 +30,23 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Python 3.7 or higher
 - tkinter
 - pygame
+- time
+- os
+- shutil
+- pathlib
 
 ## Installation
-
-
 
 1. Clone the repository:
 
 ```
 git clone https://github.com/USERNAME/Eternal-Music.git
+```
 
+2. Start the application by typing following command:
+
+```
+python window_2.py
 ```
 ## Contributing
 
