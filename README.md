@@ -18,11 +18,11 @@ This application is designed to be an alternative to other music player applicat
 
 ## Project Spotlights
 
-<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic1.png" width="80%" >
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic1.png" width="100%" >
 <br/>
-<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic2.png" width="80%" >
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic2.png" width="100%" >
 <br/>
-<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic3.png" width="80%" >
+<img src="https://github.com/Pratik-005/Eternal_Music/blob/master/eternalmusic3.png" width="100%" >
 
 
 ## Requirements
